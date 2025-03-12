@@ -4,7 +4,7 @@ A Java-based desktop application following the **Model-View-Controller (MVC)** a
 ## 📸 Screenshots
 
 ### Main View
-![Main View](assets/main_view.png)
+![Main View](assets/main.png)
 
 ### Add Product Form
 ![Add Product Form](assets/añadir.png)
